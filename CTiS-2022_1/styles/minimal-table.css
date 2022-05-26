@@ -6,7 +6,7 @@ padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
 		  color: black;
-    background-color: white }
+    background-color: #edeff2 }
 	  ul.navbar {
      list-style-type: square;
     padding: 0;
@@ -19,7 +19,7 @@ padding-left: 11em;
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
 ul.navbar li {
-  background: white;
+  background: #edeff2;
   margin: 0.5em 0;
   padding: 0.3em; }
 ul.navbar a {
